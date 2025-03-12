@@ -1,1 +1,2 @@
-Testar commit
+Testar commit. 
+Edição na nuvem.
