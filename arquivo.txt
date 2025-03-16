@@ -1,2 +1,3 @@
 Testar commit. 
 Edição na nuvem.
+nova edição local.
